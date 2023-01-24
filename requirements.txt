@@ -1,0 +1,9 @@
+colorama==0.4.6
+countryinfo==0.1.2
+geopy==2.3.0
+openpyxl==3.0.10
+pandas==1.5.1
+psycopg2==2.9.5
+requests==2.28.1
+toloka_kit==0.1.23
+typing_extensions==4.4.0
